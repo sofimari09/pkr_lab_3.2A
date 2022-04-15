@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\STUDY\2_семестр\ПКР\Labs\3.02A\3.02A\3.02A.cpp(100,6): warning C4101: 'course': unreferenced local variable
+D:\STUDY\2_семестр\ПКР\Labs\3.02A\3.02A\3.02A.cpp(183,6): warning C4101: 'i': unreferenced local variable
+  UnitTest1.vcxproj -> D:\STUDY\2_семестр\ПКР\Labs\3.02A\3.02A\Debug\UnitTest1.dll
